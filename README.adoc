@@ -1,0 +1,8 @@
+= K2BoxStarter
+Chevdor
+v0.1
+
+== Intro
+
+BoxStarter (chocolatey) repository for K2 servers.
+

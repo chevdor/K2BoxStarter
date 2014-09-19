@@ -1,5 +1,4 @@
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions
-# Enable-RemoteDesktop
 
 cinst console-devel
 cinst sublimetext2
